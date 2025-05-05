@@ -134,7 +134,7 @@ body {
     text-align: center;
     display: flex;
     flex-direction: column;
-  
+
 }
 
 
@@ -158,13 +158,13 @@ body {
     align-items: center;
     width: 20%;
     color: var(--text-tertiary);
-    
+
 }
 
 
 
 #key-benefits .benefits .benefit-img {
-    width: 250px ;
+    width: 250px;
     height: 250px;
     border-radius: 50%;
     background-color: rgb(228, 212, 212);
@@ -174,14 +174,14 @@ body {
 }
 
 
-#benefit-1{
+#benefit-1 {
     background-image: url("../img/sqr-1.jpg");
 }
 
-#benefit-2{
+#benefit-2 {
     background-image: url("../img/sqr-2.jpg");
 }
 
-#benefit-3{
+#benefit-3 {
     background-image: url("../img/sqr-3.jpg");
 }
