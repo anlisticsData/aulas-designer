@@ -1,0 +1,13 @@
+Warna Dominan : #e5e4e5 
+
+Palet Warna : 
+ - #e5e4e5 
+ - #154258 
+ - #8b98a3 
+ - #747c93 
+ - #69788c 
+ - #b4bcc4 
+ - #699e86 
+ - #acacb7 
+ - #749c84 
+ - #acc4b4 
