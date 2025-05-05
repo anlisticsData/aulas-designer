@@ -15,6 +15,9 @@
     box-sizing: border-box;
 }
 
+body {
+    padding-bottom: 500px;
+}
 
 /*Eneventos do formulario*/
 
@@ -108,6 +111,77 @@
 }
 
 
-.btn:hover{
+.btn:hover {
     opacity: 1;
+}
+
+
+#key-benefits h2 {
+    background-color: var(--secondary);
+    text-align: center;
+    padding: 2em;
+    font-weight: 500;
+}
+
+
+
+
+#key-benefits {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+
+#key-benefits .benefits {
+    display: flex;
+
+    justify-content: space-between;
+    padding: 4em;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+
+}
+
+
+#key-benefits .benefits .benefit {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    color: var(--text-tertiary);
+    
+}
+
+
+
+#key-benefits .benefits .benefit-img {
+    width: 250px ;
+    height: 250px;
+    border-radius: 50%;
+    background-color: rgb(228, 212, 212);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 1em;
+}
+
+
+#benefit-1{
+    background-image: url("../img/sqr-1.jpg");
+}
+
+#benefit-2{
+    background-image: url("../img/sqr-2.jpg");
+}
+
+#benefit-3{
+    background-image: url("../img/sqr-3.jpg");
 }
